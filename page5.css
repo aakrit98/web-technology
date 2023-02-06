@@ -1,0 +1,21 @@
+*{
+    background-color: burlywood;
+    width: 100%;
+    color: whitesmoke;
+}
+.box{
+    display: flex;
+    align-items: center;
+}
+.left{
+    width: 50%;
+    font-size: 2em;
+    text-align: center;
+}
+.right{
+    width: 50%;
+}
+.img{
+    width: 100px;
+    height: 100vh;
+}

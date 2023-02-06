@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(128, 111, 97);
+}
+
+.left{
+    float: right;
+    font-size: x-large;
+    color: rgb(40, 149, 122);
+}
+.right{
+    float: left;
+    font-size: large;
+    color: rgb(84, 30, 177);
+}
+
+img{
+    height: 65vh;
+}
